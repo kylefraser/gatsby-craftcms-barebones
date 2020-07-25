@@ -77,6 +77,7 @@ _This is a very basic template, just to display the data you have currently in y
 * After it’s enabled head back to Settings
 * Enter CraftQL settings and scroll to the bottom
 * Click generate a new token (you can name it Gatsby if you want)
+* Click `Settings...` on newly created token and enable which scopes you'd like GraphQL to have access to
 * See Curl under Getting Started and run the command given
 * It should return: 
 ```
